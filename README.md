@@ -6,6 +6,10 @@
 
 Link to Circuit.IO diagram: https://www.circuito.io/app?components=97,512,11021,530717
 
+## TinkerCAD link to optional enclosure
+
+https://www.tinkercad.com/things/ieNi0StO6fq-arduino-breadboard-holder-case/edit?sharecode=ER27c7T3w8n9jSMUCzSJVUjVoYgZLYAR8zUcOcYhoGk
+
 # Documentation // Steps to reproduce
 
 1. Reproduce the wiring diagram
