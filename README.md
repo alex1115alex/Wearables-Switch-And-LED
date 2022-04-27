@@ -14,3 +14,4 @@ https://www.tinkercad.com/things/ieNi0StO6fq-arduino-breadboard-holder-case/edit
 
 1. Reproduce the wiring diagram
 2. Upload code to arduino
+3. Wrap the LED strip around your favorite captain's hat 
